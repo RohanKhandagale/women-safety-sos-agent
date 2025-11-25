@@ -1,0 +1,13 @@
+{
+  "time": "20251125_071746",
+  "details": {
+    "reason": {
+      "is_emergency": true,
+      "level": "danger",
+      "matches": [
+        "bachao"
+      ]
+    }
+  },
+  "note": "SOS simulated — no real dispatch."
+}
